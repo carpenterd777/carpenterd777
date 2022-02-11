@@ -1,2 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carpenterd777&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+Software engineer who wants to learn more about the design and construction phase of software projects. Loves video and tabletop games, music, reading, and cheese 🧀
