@@ -1,1 +1,1 @@
-Software engineer who wants to learn more about the design and construction phases of software projects. Loves video and tabletop games, music, reading, and cheese 🧀
+Software engineer who wants to learn more about the design and construction phases of software projects. Loves video and tabletop games, music, and reading. Anti-engineered addiction, pro-privacy and FOSS.
